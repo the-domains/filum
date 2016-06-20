@@ -1,0 +1,14 @@
+layout_spectrum: 0.5135803439188749
+typography_spectrum: 0.10035275877453387
+color:
+  brandStrength: 0.3039015990216285
+  lightness: 0.23720112699083984
+  saturation: 0.7613195492886007
+  rhythmicContrast: 0.4261853531934321
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Filum
