@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Filum]]></title>
+        <description><![CDATA[Filum]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 21 Jun 2016 02:25:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Filum - Bienvenido]]></title>
+            <description><![CDATA[<article><h1>Filum - Bienvenido</h1><p>Filum es un estudio que se dedica al proyecto arquitectónico y brinda además el servicio de representación para otros profesionales y promotores.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9689862613a31ada88dfba58555d8eff/croprotate.png?cropheight=85&cropwidth=90&degrees=0&input=http%3A%2F%2Ffilum.ws%2Fassets%2Flogo.png&x=0&y=18"></article>]]></description>
+            <link>Http://filum.ws</link>
+            <guid isPermaLink="false">a7922d16-aaad-4a7a-9477-f03ea9a5ca48</guid>
+            <pubDate>Tue, 21 Jun 2016 02:25:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
