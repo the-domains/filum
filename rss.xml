@@ -4,8 +4,15 @@
         <description><![CDATA[Filum]]></description>
         <link>https://thegrid.ai/filum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 01:00:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 01:02:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/filum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Filum - Bienvenido]]></title>
+            <description><![CDATA[<article><h1>Filum - Bienvenido</h1><p>Filum es un estudio que se dedica al proyecto arquitectónico y brinda además el servicio de representación para otros profesionales y promotores.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9689862613a31ada88dfba58555d8eff/croprotate.png?cropheight=85&cropwidth=90&degrees=0&input=http%3A%2F%2Ffilum.ws%2Fassets%2Flogo.png&x=0&y=18"></article>]]></description>
+            <link>Http://filum.ws</link>
+            <guid isPermaLink="false">a7922d16-aaad-4a7a-9477-f03ea9a5ca48</guid>
+            <pubDate>Fri, 29 Jul 2016 01:02:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Con-ciencia de Habitar]]></title>
             <description><![CDATA[<article><h1>Con-ciencia de Habitar</h1><p>Acercando la arquitectura a las personas</p></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bae08706-97b7-4440-ac9b-3fdec1fc1674.jpg</link>
             <guid isPermaLink="false">ceec84ab-867b-4bfe-9f74-80e91ddb7c54</guid>
             <pubDate>Fri, 29 Jul 2016 00:58:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Filum - Bienvenido]]></title>
-            <description><![CDATA[<article><h1>Filum - Bienvenido</h1><p>Filum es un estudio que se dedica al proyecto arquitectónico y brinda además el servicio de representación para otros profesionales y promotores.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9689862613a31ada88dfba58555d8eff/croprotate.png?cropheight=85&cropwidth=90&degrees=0&input=http%3A%2F%2Ffilum.ws%2Fassets%2Flogo.png&x=0&y=18"></article>]]></description>
-            <link>Http://filum.ws</link>
-            <guid isPermaLink="false">a7922d16-aaad-4a7a-9477-f03ea9a5ca48</guid>
-            <pubDate>Tue, 21 Jun 2016 02:25:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
