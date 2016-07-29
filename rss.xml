@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Filum]]></title>
-        <description><![CDATA[Filum]]></description>
+        <title><![CDATA[integral solutions]]></title>
+        <description><![CDATA[integral solutions]]></description>
         <link>https://thegrid.ai/filum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 01:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 01:04:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/filum/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Filum - Bienvenido]]></title>
@@ -12,13 +12,6 @@
             <link>Http://filum.ws</link>
             <guid isPermaLink="false">a7922d16-aaad-4a7a-9477-f03ea9a5ca48</guid>
             <pubDate>Fri, 29 Jul 2016 01:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Con-ciencia de Habitar]]></title>
-            <description><![CDATA[<article><h1>Con-ciencia de Habitar</h1><p>Acercando la arquitectura a las personas</p></article>]]></description>
-            <link>http://concienciadehabitar.com</link>
-            <guid isPermaLink="false">852a1520-e58e-4730-91d4-eab1a8313042</guid>
-            <pubDate>Fri, 29 Jul 2016 01:00:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An Architect?]]></title>
