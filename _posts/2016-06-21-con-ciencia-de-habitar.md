@@ -1,20 +1,17 @@
 ---
-datePublished: '2016-06-21T02:25:59.505Z'
+datePublished: '2016-07-29T01:00:37.166Z'
+sourcePath: _posts/2016-06-21-con-ciencia-de-habitar.md
 isBasedOnUrl: 'http://concienciadehabitar.com'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-21T02:24:25.991Z'
+via: {}
+dateModified: '2016-07-29T01:00:36.415Z'
 title: Con-ciencia de Habitar
 app_links: []
-publisher:
-  url: 'http://www.concienciadehabitar.com'
-  name: Concienciadehabitar
-  favicon: 'http://www.concienciadehabitar.com/img/px.gif'
-  domain: concienciadehabitar.com
+publisher: {}
 description: Acercando la arquitectura a las personas
 starred: false
-sourcePath: _posts/2016-06-21-con-ciencia-de-habitar.md
 inFeed: true
 hasPage: false
 inNav: false
