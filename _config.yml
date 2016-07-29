@@ -1,4 +1,3 @@
-layout_spectrum: 0.6781929607968777
 typography_spectrum: 0.8659098774660379
 color:
   brandStrength: 0.3039015990216285
@@ -11,8 +10,10 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
-name: Filum
+layout_spectrum: 0.6781929607968777
 author:
   email: contacto@filum.ws
   url: 'http://filum.ws'
   name: Tell Us what is your need
+name: Filum
+title: integral solutions
