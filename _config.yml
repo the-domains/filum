@@ -1,16 +1,16 @@
-typography_spectrum: 0.8659098774660379
+typography_spectrum: 0.6198640370275825
 color:
-  brandStrength: 0.3039015990216285
-  lightness: 0.23720112699083984
-  saturation: 0.7613195492886007
-  rhythmicContrast: 0.4261853531934321
+  brandStrength: 0.05087525490671396
+  lightness: 0.38822241593152285
+  saturation: 0.5144269859883934
+  rhythmicContrast: 0.09139251173473895
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
-layout_spectrum: 0.6781929607968777
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.93463200237602
 author:
   email: contacto@filum.ws
   url: 'http://filum.ws'
